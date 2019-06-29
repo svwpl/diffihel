@@ -8,8 +8,6 @@ int main()
 
 	long long int A, B, K;
 
-	setlocale(LC_ALL, "rus");
-
 	cout << "add p: ";
 	cin >> p;
 	cout << "add g: ";
